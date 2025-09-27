@@ -11,6 +11,7 @@ fetch("tickets.json")
   });
 
 
+  
 
 // Render tickets
 function renderTickets() {
