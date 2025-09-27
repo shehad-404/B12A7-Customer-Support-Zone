@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1001,
+      "title": "Login Issues - Can't Access Account",
+      "description": "Customer is unable to log in to their account. Tried resetting password multiple times.",
+      "customer": "John Smith",
+      "priority": "HIGH PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-15"
+    },
+    {
+      "id": 1002,
+      "title": "Payment Failed - Card Declined",
+      "description": "Attempted to pay using Visa ending 1234, but transaction keeps failing despite sufficient balance.",
+      "customer": "Sarah Johnson",
+      "priority": "HIGH PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-16"
+    },
+    {
+      "id": 1003,
+      "title": "Unable to Download Invoice",
+      "description": "Customer cannot download January invoice from billing section.",
+      "customer": "Michael Brown",
+      "priority": "MEDIUM PRIORITY",
+      "status": "In-Progress",
+      "createdAt": "2024-01-17"
+    },
+    {
+      "id": 1004,
+      "title": "Incorrect Billing Address",
+      "description": "Billing address shows old city even after customer updated it.",
+      "customer": "Emily Davis",
+      "priority": "LOW PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-18"
+    },
+    {
+      "id": 1005,
+      "title": "App Crash on Launch",
+      "description": "Mobile app crashes immediately on Android 13 devices.",
+      "customer": "David Wilson",
+      "priority": "HIGH PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-19"
+    },
+    {
+      "id": 1006,
+      "title": "Refund Not Processed",
+      "description": "Customer requested a refund two weeks ago but amount not received yet.",
+      "customer": "Sophia Taylor",
+      "priority": "MEDIUM PRIORITY",
+      "status": "In-Progress",
+      "createdAt": "2024-01-20"
+    },
+    {
+      "id": 1007,
+      "title": "Two-Factor Authentication Issue",
+      "description": "Customer not receiving 2FA codes on registered phone number.",
+      "customer": "James Anderson",
+      "priority": "HIGH PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-21"
+    },
+    {
+      "id": 1008,
+      "title": "Unable to Update Profile Picture",
+      "description": "Tried uploading a new profile picture but always fails with error.",
+      "customer": "Olivia Martinez",
+      "priority": "LOW PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-22"
+    },
+    {
+      "id": 1009,
+      "title": "Subscription Auto-Renewal",
+      "description": "Customer wants auto-renewal enabled but toggle is disabled.",
+      "customer": "Liam Thomas",
+      "priority": "MEDIUM PRIORITY",
+      "status": "In-Progress",
+      "createdAt": "2024-01-23"
+    },
+    {
+      "id": 1010,
+      "title": "Missing Order Confirmation Email",
+      "description": "Customer placed an order but did not receive confirmation email.",
+      "customer": "Isabella Garcia",
+      "priority": "MEDIUM PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-24"
+    },
+    {
+      "id": 1011,
+      "title": "Slow Website Loading",
+      "description": "Customer reports the website is taking too long to load pages.",
+      "customer": "Ethan Martinez",
+      "priority": "LOW PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-25"
+    },
+    {
+      "id": 1012,
+      "title": "Coupon Code Not Working",
+      "description": "Customer tried applying discount coupon during checkout but it failed.",
+      "customer": "Ava Robinson",
+      "priority": "MEDIUM PRIORITY",
+      "status": "Open",
+      "createdAt": "2024-01-26"
+    }
+  ]
+  
